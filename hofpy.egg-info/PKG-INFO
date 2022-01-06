@@ -1,12 +1,10 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.0
 Name: hofpy
-Version: 0.1
+Version: 0.1.1
 Summary: Python binding for Histogram of Forces
 Home-page: UNKNOWN
 Author: Andrew Buck
 Author-email: buckar@missouri.edu
 License: UNKNOWN
+Description: UNKNOWN
 Platform: UNKNOWN
-
-UNKNOWN
-

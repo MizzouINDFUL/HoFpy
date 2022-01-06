@@ -25,8 +25,8 @@ py::array_t<double> FRHist(py::array_t<unsigned char>& imageA, py::array_t<unsig
     unsigned char* ptrB = (unsigned char*)bufB.ptr;
     double* ptr_histogram = (double*)buf_histogram.ptr;
 
-    int M = bufA.shape[0];
-    int N = bufA.shape[1];
+    int M = bufA.shape[1];
+    int N = bufA.shape[0];
 
     hof::HoF_Raster raster_obj;
 

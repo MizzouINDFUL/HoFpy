@@ -12,7 +12,7 @@ hof_module = Pybind11Extension(
 
 setup(
     name='hofpy',
-    version=0.1,
+    version='0.1.1',
     author='Andrew Buck',
     author_email='buckar@missouri.edu',
     description='Python binding for Histogram of Forces',
