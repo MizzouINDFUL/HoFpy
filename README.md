@@ -23,6 +23,11 @@ __General Histogram of Forces (FR)__
 FRHist(imageA: numpy.ndarray[numpy.uint8], imageB: numpy.ndarray[numpy.uint8], typeForce: float, numberDirections: int = 180) -> numpy.ndarray[numpy.float64]
 ```
 
+__Histogram of Hybrid Forces (F02)__
+```
+F02Hist(imageA: numpy.ndarray[numpy.uint8], imageB: numpy.ndarray[numpy.uint8], numberDirections: int = 180, p0: float = 0.01, p1: float = 3.0) -> numpy.ndarray[numpy.float64]
+```
+
 ## Installation
 
 Clone the repo to a local directory and run the following commands to build and install the `hofpy` package.

@@ -1,8 +1,0 @@
-README.md
-setup.py
-hofpy.egg-info/PKG-INFO
-hofpy.egg-info/SOURCES.txt
-hofpy.egg-info/dependency_links.txt
-hofpy.egg-info/top_level.txt
-src/HoF_Raster.cpp
-src/hofpy.cpp
